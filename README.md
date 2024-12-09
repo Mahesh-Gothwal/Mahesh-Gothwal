@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh Gothwal</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-gothwal&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-gothwal" /> </p>
-
 - 🌱 I’m currently learning **Docker, gsap, aws**
 
 - 💬 Ask me about **react, next, tailwindcss**
